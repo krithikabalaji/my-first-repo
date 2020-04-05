@@ -2,4 +2,4 @@ My first repo
 
 im alive
 i added this
-its always a loop
+its always a circle
